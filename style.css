@@ -1,0 +1,26 @@
+body{
+  padding:0px; 
+  background: black; 
+  font-size: 1em; 
+  overflow:hidden;
+  margin:0;
+}
+h4{
+  color: #fff;
+  float:right;
+  padding-right:2em;
+  
+}
+canvas{
+  background: black;
+  width:100vw;
+  height:100vh;
+}
+button{
+  color:#000;
+  padding:1em;
+  border:none;
+  float:left;
+  margin-left:5px;
+  margin-top:0;
+}
